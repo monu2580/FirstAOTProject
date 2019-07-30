@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140899451197",
+    "firebase_url": "https://firstaotproject.firebaseio.com",
+    "project_id": "firstaotproject",
+    "storage_bucket": "firstaotproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140899451197:android:46027a8226878153",
+        "android_client_info": {
+          "package_name": "com.deepesh.firstaotproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140899451197-r6ql1vtge6pg4eqo9hlatvqlmir6a7s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepesh.firstaotproject",
+            "certificate_hash": "0b51873408fefba4eec4777c99f366dc1b960c90"
+          }
+        },
+        {
+          "client_id": "140899451197-4q57eeqduroms4s558kp7j5shilrd4h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwZuMydXQ0vxy4ae7jbioY0VsWMWWjyFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140899451197-4q57eeqduroms4s558kp7j5shilrd4h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
